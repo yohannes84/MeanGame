@@ -1,0 +1,693 @@
+[{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4336"
+	},
+	"title": "The Game of Life: Vintage Game Collection",
+	"year": 2007,
+	"rate": 4,
+	"price": 35,
+	"minPlayers": 2,
+	"maxPlayers": 6,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 9,
+	"designers": "Bill Markham"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4339"
+	},
+	"title": "Onitama",
+	"year": 2014,
+	"rate": 4,
+	"price": 27.73,
+	"minPlayers": 2,
+	"maxPlayers": 2,
+	"publisher": {
+		"name": "Arcane Wonders",
+		"location": {
+			"coordinates": [
+				32.96999,
+				-96.60308
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Shimpei Sato"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4347"
+	},
+	"title": "Catan",
+	"year": 1995,
+	"rate": 4,
+	"price": 24.74,
+	"minPlayers": 3,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "KOSMOS",
+		"location": {
+			"coordinates": [
+				48.777107239,
+				9.180768967
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 10,
+	"designers": "Klaus Teuber"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a434b"
+	},
+	"title": "Dice Forge",
+	"year": 2017,
+	"rate": 5,
+	"price": 29.99,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "Libellud",
+		"location": {
+			"coordinates": [
+				46.5802596,
+				0.340196
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 10,
+	"designers": "Regis Bonnessee"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a434d"
+	},
+	"title": "The Grizzled: Armistice Edition",
+	"year": 2018,
+	"rate": 1,
+	"price": 38.5,
+	"minPlayers": 1,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "CMON Limited",
+		"location": {
+			"coordinates": [
+				1.29027,
+				103.851959
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 14,
+	"designers": "Fabien Riffaud, Juan Rodriguez"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4338"
+	},
+	"title": "Clue: Vintage Game Collection",
+	"year": 2005,
+	"rate": 5,
+	"price": 35,
+	"minPlayers": 3,
+	"maxPlayers": 6,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Anthony E. Pratt"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4345"
+	},
+	"title": "Ticket to Ride",
+	"year": 2004,
+	"rate": 4,
+	"price": 49.99,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "Days of Wonder",
+		"location": {
+			"coordinates": [
+				48.84248,
+				2.24388
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Alan R. Moon"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4346"
+	},
+	"title": "City of Gears",
+	"year": 2012,
+	"rate": 2,
+	"price": 34,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "Gray Fox Games",
+		"location": {
+			"coordinates": [
+				38.69715,
+				-90.4397983
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Chris Leder, Daryl Andrews"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4348"
+	},
+	"title": "Battleship",
+	"year": 2018,
+	"rate": 2,
+	"price": 14.92,
+	"minPlayers": 2,
+	"maxPlayers": 2,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 7,
+	"designers": "Uncredited"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4349"
+	},
+	"title": "Steam Park",
+	"year": 2013,
+	"rate": 4,
+	"price": 36.98,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 10,
+	"designers": "Marie Cardouat"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a434a"
+	},
+	"title": "Splendor",
+	"year": 2014,
+	"rate": 1,
+	"price": 38.11,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "Space Cowboys",
+		"location": {
+			"coordinates": [
+				48.84248,
+				2.24388
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 10,
+	"designers": "Marc Andre"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a434c"
+	},
+	"title": "Swordcrafters",
+	"year": 2018,
+	"rate": 3,
+	"price": 27.99,
+	"minPlayers": 1,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "Adam's Apple Games",
+		"location": {
+			"coordinates": [
+				44.953228,
+				-93.345499
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 6,
+	"designers": "Ryan Lambert, Chris Neuman, Adam Rehberg"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a434e"
+	},
+	"title": "Monopoly: Vintage Game Collection",
+	"year": 2005,
+	"rate": 1,
+	"price": 35,
+	"minPlayers": 2,
+	"maxPlayers": 6,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Charles Darrow"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4337"
+	},
+	"title": "Stratego: Vintage Game Collection",
+	"year": 2005,
+	"rate": 1,
+	"price": 35,
+	"minPlayers": 2,
+	"maxPlayers": 2,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Mademoiselle Hemance Edan"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a433a"
+	},
+	"title": "Yahtzee Free For All",
+	"year": 2008,
+	"rate": 2,
+	"price": 29.99,
+	"minPlayers": 2,
+	"maxPlayers": 6,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Richard Borg"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a433b"
+	},
+	"title": "Shut The Boz",
+	"year": 2014,
+	"rate": 4,
+	"price": 20.94,
+	"minPlayers": 1,
+	"maxPlayers": 10,
+	"publisher": {
+		"name": "University Games",
+		"location": {
+			"coordinates": [
+				37.76437,
+				-122.41321
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Uncredited"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a433c"
+	},
+	"title": "Tales \u0026 Games: The Hare \u0026 The Tortoise",
+	"year": 2011,
+	"rate": 1,
+	"price": 30,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 7,
+	"designers": "Gary Kim"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a433d"
+	},
+	"title": "Risk: Vintage Game Collection",
+	"year": 2005,
+	"rate": 5,
+	"price": 35,
+	"minPlayers": 2,
+	"maxPlayers": 6,
+	"publisher": {
+		"name": "Hasbro",
+		"location": {
+			"coordinates": [
+				41.88369,
+				-71.35231
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 10,
+	"designers": "Reiner Knizia"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a433e"
+	},
+	"title": "Tales \u0026 Games: Little Red Riding Hood",
+	"year": 2015,
+	"rate": 5,
+	"price": 24.99,
+	"minPlayers": 1,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 7,
+	"designers": "Annick Lobet"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a433f"
+	},
+	"title": "Tales \u0026 Games: Aladdin \u0026 The Magic Lamp",
+	"year": 2016,
+	"rate": 1,
+	"price": 19.8,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Tiago Damey"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4340"
+	},
+	"title": "Tales \u0026 Games: Lost in The Woods",
+	"year": 2018,
+	"rate": 2,
+	"price": 24.99,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 9,
+	"designers": "Bruno Faidutti, Anja Wrede"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4341"
+	},
+	"title": "Tales \u0026 Games: The Pied Piper",
+	"year": 2016,
+	"rate": 1,
+	"price": 24.99,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Agnes Lareaud"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4342"
+	},
+	"title": "Tales \u0026 Games: Jack \u0026 The Beanstalk",
+	"year": 2017,
+	"rate": 1,
+	"price": 24.99,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 7,
+	"designers": "Frederic Morard"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4343"
+	},
+	"title": "Tales \u0026 Games: The Three Little Pigs",
+	"year": 2013,
+	"rate": 3,
+	"price": 29.99,
+	"minPlayers": 2,
+	"maxPlayers": 5,
+	"publisher": {
+		"name": "IELLO",
+		"location": {
+			"coordinates": [
+				48.64545,
+				6.19135
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 7,
+	"designers": "Laurent Piuchain"
+},
+{
+	"_id": {
+		"$oid": "5fbed15c07a5894b456a4344"
+	},
+	"title": "Planet",
+	"year": 2018,
+	"rate": 3,
+	"price": 34.99,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"publisher": {
+		"name": "Blue Orange",
+		"location": {
+			"coordinates": [
+				48.9186889,
+				6.059363
+			]
+		}
+	},
+	"reviews": "",
+	"minAge": 8,
+	"designers": "Urtis Sulinskas"
+},
+{
+	"_id": {
+		"$oid": "5fc6e9b6b1c5983fa631561a"
+	},
+	"designers": [
+		"Michael Kiesling"
+	],
+	"rate": 5,
+	"title": "Azul",
+	"year": 2017,
+	"price": 28.99,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"minAge": 8,
+	"publisher": {
+		"_id": {
+			"$oid": "5fc6f31707b83d45ccc9d3a5"
+		},
+		"name": "Next Move Games",
+		"location": {
+			"coordinates": [
+				-74.301897,
+				45.477655
+			]
+		}
+	},
+	"reviews": [],
+	"__v": 1
+},
+{
+	"_id": {
+		"$oid": "5fd422b3d5ad149988baf728"
+	},
+	"designers": [
+		"Prospero Hall"
+	],
+	"rate": 3,
+	"title": "Jaws",
+	"year": 2019,
+	"price": 29.99,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"minAge": 12,
+	"publisher": {
+		"_id": {
+			"$oid": "5fd422b3d5ad149988baf729"
+		},
+		"name": "Ravensburger",
+		"location": {
+			"coordinates": [
+				-70.857293,
+				43.253098
+			]
+		}
+	},
+	"reviews": [],
+	"__v": 1
+},
+{
+	"_id": {
+		"$oid": "5fdc14318526dc2c5926cae5"
+	},
+	"designers": [
+		"Matt Hyra",
+		" Cony Jones"
+	],
+	"rate": 4,
+	"title": "Rick and Morty: THE MORTY ZONE",
+	"year": 2019,
+	"price": 21.99,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"minAge": 15,
+	"publisher": {
+		"_id": {
+			"$oid": "5fdc14318526dc2c5926cae6"
+		},
+		"name": "Cryptozoic Entertainment",
+		"location": {
+			"coordinates": [
+				-117.687038,
+				33.6669788
+			]
+		}
+	},
+	"reviews": [],
+	"__v": 1
+},
+{
+	"_id": {
+		"$oid": "5fdc162b2812a32e5ef30065"
+	},
+	"designers": [
+		"Matt Hyra"
+	],
+	"rate": 2,
+	"title": "Rick and Morty: ANATOMY PARK THE GAME",
+	"year": 2017,
+	"price": 27.21,
+	"minPlayers": 2,
+	"maxPlayers": 4,
+	"minAge": 18,
+	"publisher": {
+		"_id": {
+			"$oid": "5fdc162b2812a32e5ef30066"
+		},
+		"name": "Cryptozoic Entertainment",
+		"location": {
+			"coordinates": [
+				-117.687038,
+				33.6669788
+			]
+		}
+	},
+	"reviews": [],
+	"__v": 1
+}]
+
