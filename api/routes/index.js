@@ -1,6 +1,7 @@
 const express = require("express")
 const router =  express.Router();
 const gamesController = require("../../controllers/gamesController")
+const publisher = require("../../controllers/publisher")
 
 router.get("/", function(req,res){
     console.log("GET request Received");
@@ -8,26 +9,26 @@ router.get("/", function(req,res){
 })
 
 //getting all games
-router.route("/games")
+router.route("/games/")
       .get(gamesController.getAll)
+      .post(gamesController.addOne)
  
 //getting one game
-router.route("/games/:gamedID")
+router.route("/games/:gameID")
     .get(gamesController.getOne)
+    .put(gamesController.fullUpdateOne)
+    .patch(gamesController.partialUpdateOne)
+    .delete(gamesController.deleteOne)
 
-router.route("/json")
-      .get(function(req,res){
-            console.log("Json Request Received");
-            res.status(200).send({"JSON_DATA":true})
-        })
-      .post(function(req,res){
-            console.log("Json Request Received");
-            res.status(200).send({"JSON_DATA":true})
-        });
+router.route("/games/:gameID/publisher/")
+    .get(publisher.getAll)
+    .post(publisher.addOne)
+    
 
-router.get("/file", function(req,res){
-    console.log("Get file request");
-    res.status(200).sendFile(path.join(__dirname,"app.js"))
-})
+router.route("/games/:gameID/publisher/publisherId")
+    .get(publisher.getOne)
+    .delete(publisher.deleteOne)
+    .put(publisher.fullUpdateOne)
+    .patch(publisher.partialUpdateOne)
 
 module.exports = router;
